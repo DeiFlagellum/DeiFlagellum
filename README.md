@@ -1,4 +1,4 @@
-# Adam Koch · *Versace*
+# Adam Koch · *DeiFlagellum*
 
 Software engineer and applied-cryptography researcher with about 30 years in IT. I build
 products end to end — protocols and cryptography, Windows and Android apps, web platforms and
