@@ -10,7 +10,7 @@ the servers they run on — and I document my research openly, negative results 
 
 ## Certified research and development
 
-<a href="https://www.bescheinigung-forschungszulage.de/forschung-und-entwicklung-im-rampenlicht"><img src="assets/bsfz-siegel-2026.jpg" width="150" align="right" alt="BSFZ seal 2026 — research and development certified by the Bescheinigungsstelle Forschungszulage"></a>
+<a href="https://www.bescheinigung-forschungszulage.de/forschung-und-entwicklung-im-rampenlicht"><img src="assets/bsfz-siegel-2026.jpg" width="220" align="right" alt="BSFZ seal 2026 — research and development certified by the Bescheinigungsstelle Forschungszulage"></a>
 
 In 2026 the **Bescheinigungsstelle Forschungszulage (BSFZ)** certified nine of my projects as
 research and development under Germany's Research Allowance Act (FZulG):
@@ -45,18 +45,15 @@ How I work and what came out of it — problem, hypothesis, falsifiable criterio
 | | |
 |---|---|
 | [**Sigelith**](https://sigelith.org) | Public, free proof-of-existence infrastructure — timestamping, verification, proof of delivery and time-sealed capsules — plus Internet Time (@beat) |
-| **BeatTime** | @beat clock for Android with widget faces and a Wear OS watch face (Google Play) |
+| [**BeatTime**](https://play.google.com/store/apps/details?id=live.beattime) | @beat clock for Android with widget faces and a Wear OS watch face (Google Play) |
 | [**Ygoow**](https://ygoow.com) | Metadata-resistant, account-less messenger |
 | [**DosePeer**](https://dosepeer.com) | Private GLP-1 tracker with community data — Django + Flutter (Google Play) |
-| **Kursownia** | Mobile course platform: creators run paid video courses in branded spaces |
-| **TrainHub.fit** | Platform for personal trainers — Django, DRF, Channels, Celery |
+| [**Kursownia**](https://kursownia.app) | Mobile course platform: creators run paid video courses in branded spaces |
+| [**TrainHub.fit**](https://trainhub.fit) | Platform for personal trainers — Django, DRF, Channels, Celery |
 | [**Konveria**](https://konveria.com) | Public site and client portal for a Polish-German consultancy — Django 5.2, PostgreSQL, Celery |
-| **Nearstadt** | Free promotion of local shops |
-| **Laborbuch** | R&D record-keeping built to convince someone who does not trust its author; powers koch-laboratory.com |
-| **NeuroScreen** | Cognitive screening with a consumer EEG headband (Web Bluetooth), a marker-annotated film and age norms |
+| [**Nearstadt**](https://nearstadt.de) | Free promotion of local shops |
+| **Laborbuch** | R&D record-keeping built to convince someone who does not trust its author; powers [koch-laboratory.com](https://koch-laboratory.com) |
 | **TimeVault** | Time capsules, inheritance and conditional access |
-| **LottoLab** | Draw database, statistics and prediction desktop app (Qt) |
-| **Trend bot** | Trend-following crypto trading on Kraken — backtest, paper and live modes |
 
 ## Research lines — [Koch Laboratory](https://koch-laboratory.com)
 
